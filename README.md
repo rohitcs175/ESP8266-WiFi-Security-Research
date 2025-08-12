@@ -44,20 +44,19 @@ This project is built purely for **cybersecurity research** and **IoT security a
 - `DNSServer`
 6. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/ESP8266-WiFi-Security-Research.git
+git clone https://github.com/rohitcs175/ESP8266-WiFi-Security-Research.git
 ```
 
 7. Open the **.ino** file in Arduino IDE.
 8. Connect your Esp8266 borad and select the correct COM Port.
 9. Upload the code.
-10. 
 
 ## 🚀 Usage
 1. power on the ESP8266 after uploading.
 2. Connect to the default access point
 -` SSID: WiPhi_34732`
 -`Password: d347h320`
-3. Open the web interface (usually 192.168.4.1).
+3. Open the web interface (usually -`192.168.4.1`).
 4. Scan and select the target network.
 5. Start the Evil Twin and optional Deauth process.
 6. When a client connects to your cloned AP, the captive portal will appear.
@@ -71,4 +70,5 @@ This tool is made for.
 
 **Do NOT** use it for any malicious or illegal activities.
 You are solely responsible for your actions.
+
 
